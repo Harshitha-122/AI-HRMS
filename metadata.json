@@ -1,0 +1,7 @@
+{
+  "name": "Synergy AI HRMS",
+  "description": "A next-generation Human Resource Management System (HRMS) that leverages artificial intelligence to streamline and automate HR operations for modern workplaces, featuring AI-driven resume screening and voice-based candidate interviews.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
